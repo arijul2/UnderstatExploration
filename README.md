@@ -1,1 +1,0 @@
-# Population-and-IncomeGrowthAnalysis
